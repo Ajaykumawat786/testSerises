@@ -1,0 +1,3 @@
+
+    :root { --accent: #0ea5a4; }
+    .focus-ring:focus { outline: 3px solid rgba(14,165,164,0.3); outline-offset: 2px; }
