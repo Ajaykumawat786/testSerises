@@ -1,4 +1,4 @@
-const rscitdata = [
+const policedata = [
     {
         question: "1. Excel kya hai?",
         opction: ["Database Software", "Spreadsheet Software", "Presentation Software", "Word Processor"],
